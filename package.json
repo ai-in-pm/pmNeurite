@@ -13,7 +13,7 @@
   "author": "satellitecomponent",
   "license": "ISC",
   "devDependencies": {
-    "vite": "^2.9.16",
+    "vite": "^8.0.7",
     "shx": "^0.3.3"
   },
   "dependencies": {
